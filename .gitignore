@@ -1,4 +1,4 @@
 /backend/node_modules
 backend/**/*.js
-/frontend
+/frontend/ev_locator
 /simulation
